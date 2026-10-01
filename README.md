@@ -63,3 +63,7 @@ python3 -m unittest discover -s tests -v
 ```
 
 Tests create small artificial Word documents in temporary folders. No original interview data is included in tests or examples. See [TEST-RESULTS.md](TEST-RESULTS.md) for the tested environment and limits.
+
+## License
+
+Released under the [MIT License](LICENSE). You are free to use, modify and distribute this toolkit with attribution.

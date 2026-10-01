@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Value of Data: source-preserving preparation, validation and reporting. Python 3.10+."""
+"""Value of Data: source-preserving preparation, validation and reporting. Python 3.10+.
+
+Released under the MIT License. See the LICENSE file in the project root.
+"""
 import argparse
 import csv
 import hashlib
