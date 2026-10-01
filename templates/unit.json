@@ -1,0 +1,14 @@
+{
+  "unit_id": "U0001",
+  "spans": [{"paragraph": "P0001", "start": 0, "end": 0}],
+  "meaning": "",
+  "assignments": [{"target": "", "stance": "", "strength": ""}],
+  "provenance": "",
+  "confidence": "",
+  "framework_fit": "",
+  "suggestion": "none",
+  "rationale": "",
+  "author_session": "",
+  "review_status": "unreviewed",
+  "reviewer": null
+}

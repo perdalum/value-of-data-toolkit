@@ -1,0 +1,17 @@
+{
+  "sessions": [{
+    "id": "session-001",
+    "kind": "llm",
+    "provider": null,
+    "model": null,
+    "model_revision": null,
+    "temperature": null,
+    "top_p": null,
+    "seed": null,
+    "date_utc": "",
+    "notes": "",
+    "prompt_files": [],
+    "conversation_id": null,
+    "token_usage": null
+  }]
+}

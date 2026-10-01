@@ -1,0 +1,21 @@
+{
+  "Q1": "What is your role in this organisation?  Is research data (management) something you consider part of your work?",
+  "Q2": "Are considerations on the value of research data part of your work? If yes, why? Name some concrete activities in which data value considerations were/are relevant.",
+  "Q3": "Does your organisation have any policies, guidelines or (strategic) activities that address research data in general, and research data value in particular? (Why) is research data value important for your organisation overall?",
+  "Q4": "Can you name examples of research data that have high value and data that have low value, preferably based on cases/experiences you have had in your role?",
+  "Q5": "What are the characteristics of these data, that give them their value (or reduce their value)?",
+  "Q6": "If we would have to summarize all this: what would be your definition of the value of research data?",
+  "Q7": "We have identified different data value types",
+  "Q8": "What is your feedback to these types in general?",
+  "Q9": "In your work, what is the value type(s) you focus mostly on? Please explain why?",
+  "Q10": "Are there any value types in this overview that are not relevant for the organisation you work in? Why?",
+  "Q11": "In your opinion, can a dataset in itself have value? Or does this solely depend on the context in which data are presented?",
+  "Q12": "What is your feedback to these factors?",
+  "Q13": "Do you believe a consolidated view on research data value could benefit your organisation and/or your role? Why (not?) If so, do you have a specific use case?",
+  "Q14": "What would be your recommendations for a next step to make this framework operational?",
+  "Q15": "Do you have any final comments or recommendations?",
+  "Q0": "Front matter / unmapped (not primary evidence)",
+  "Q7–Q8": "Combined presentation and feedback",
+  "Q10a": "Additional question: missing value types",
+  "QX": "Interviewer reflections / take-home messages"
+}

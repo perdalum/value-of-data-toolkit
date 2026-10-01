@@ -1,0 +1,103 @@
+{
+  "version": "2.0-toolkit",
+  "source_material": "Interview notes, not transcripts",
+  "required_statement_fields": [
+    "S-number",
+    "filename",
+    "Q-number",
+    "meaning of statement",
+    "code",
+    "weak/strong",
+    "full text of statement"
+  ],
+  "stances": {
+    "SUP": "Explicit support",
+    "OPP": "Explicit opposition",
+    "QUAL": "Qualification or revision",
+    "NR": "Low or no local relevance",
+    "ILL": "Illustration, not endorsement",
+    "PRO": "Proposal",
+    "UNC": "Unclear",
+    "CTX": "Background context"
+  },
+  "strength": {
+    "strong": "Priority, definite rejection, reason, consequence or specific proposal",
+    "weak": "Bare agreement, tentative preference or undeveloped proposal",
+    "n/a": "Illustration, context or unresolved stance"
+  },
+  "targets": {
+    "T1": "Cultural/societal value",
+    "T2": "Scientific value",
+    "T3": "Market value",
+    "T4": "Replacement value",
+    "T5": "Compliance value",
+    "I1": "Originality/uniqueness",
+    "I2": "Reliability",
+    "I3": "Representativeness",
+    "I4": "Data organisation/standardisation",
+    "I5": "Metadata richness/standardisation",
+    "E1": "Relevance",
+    "E2": "Demand",
+    "E3": "Exclusivity",
+    "E4": "Innovation/technological compatibility",
+    "E5": "Accessibility",
+    "E6": "Reputation of source",
+    "F-TYPES": "Value-type scheme",
+    "F-FACTORS": "Factor scheme",
+    "F-INTRINSIC": "Intrinsic factor group",
+    "F-EXTRINSIC": "Extrinsic factor group",
+    "F-STRUCTURE": "Relations and distinctions",
+    "F-CONTEXT": "Context dependence",
+    "F-INHERENT": "Value without context",
+    "F-UTILITY": "Usefulness of a framework",
+    "X1": "Ongoing storage and management cost",
+    "X2": "Time and future potential",
+    "X3": "Security and sovereignty",
+    "X4": "Recognition and incentives",
+    "X5": "Stewardship and responsibility",
+    "X6": "Reuse, interoperability and aggregation",
+    "X7": "Stakeholder criticality and identity",
+    "X8": "Information density and marginal gain",
+    "X9": "Misuse, harm and dual use",
+    "X10": "Analytical methods",
+    "X11": "Domain and epistemological plurality",
+    "X12": "Integrity and reproducibility",
+    "X13": "Findability and visibility",
+    "O1": "Practical tools",
+    "O2": "Lifecycle decisions",
+    "O3": "Audience/domain tailoring",
+    "O4": "Proportionality and feasibility",
+    "O5": "Testing and consultation",
+    "O6": "Integration with existing processes",
+    "O7": "Communication and support",
+    "C0": "Background context"
+  },
+  "suggestions": [
+    "none",
+    "new_value",
+    "new_factor",
+    "refine_definition",
+    "restructure",
+    "operationalise"
+  ],
+  "primary_provenance": [
+    "reported",
+    "mixed"
+  ],
+  "excluded_provenance": [
+    "background",
+    "supplementary",
+    "researcher",
+    "ambiguous"
+  ],
+  "aggregation_unit": "Distinct included case_id; multiple documents can belong to one interview",
+  "rules": [
+    "Do not count illustrations as endorsement.",
+    "Do not count repeated units from one record as extra votes.",
+    "Keep support and criticism together when they coexist.",
+    "Do not treat local non-relevance as conceptual rejection.",
+    "No weighted total support score.",
+    "Never equate a quotation from notes with verbatim participant speech."
+  ],
+  "extension_note": "X and O codes are inherited optional candidate vocabulary, not findings about a new collection. New targets may be added with definitions and rationale before coding."
+}

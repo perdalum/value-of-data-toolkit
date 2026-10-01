@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Keep new collections and analysis runs outside this reusable distribution.
